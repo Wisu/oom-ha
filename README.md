@@ -1,10 +1,8 @@
 ## Simple viewer for an Golf OrderOfMerit
-Built on HyperApp as an SPA.
+Built an SPA in HyperApp.
 It uses Bulma for styling and Axios to fetch the result information.
 
 Live deployed on AWS S3: (https://s3.eu-north-1.amazonaws.com/ostgk/som-2019.html)
-
-# [HyperApp](https://github.com/hyperapp/hyperapp) Boilerplate
 
 The purpose of this example was to create one more Hyperapp SPA solving some questions I hade for a [HyperApp](https://github.com/hyperapp/hyperapp) project.
 
@@ -14,7 +12,6 @@ The purpose of this example was to create one more Hyperapp SPA solving some que
 npm install
 npm start
 ```
-
 
 Open the application in a moder browser [http://localhost:4000/som-2019.html](http://localhost:4000/som-2019.html)!
 
@@ -48,4 +45,4 @@ This repo is started from: [![GitHub issues](https://img.shields.io/github/issue
 Tom Zellman ([@tzellman](https://twitter.com/tzellman)) for the Hyperapp-boilerplate project
 
 ## Author
-William Sundberg (https://github.com/Wisu/oom-ha)
+William Sundberg (https://github.com/Wisu)
